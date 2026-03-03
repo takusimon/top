@@ -1,0 +1,21 @@
+.box-one, .box-two{
+    font-size: 40px;
+    padding: 0px;
+    border: 0px
+}
+.box-one{
+    background-color: red;
+    height:100px;
+    width:100px;
+    padding: 10px;
+    border: 20px solid purple;
+    margin: 60px
+}
+
+.box-two{
+    background-color: rgb(0,0,255);
+    height:100px;
+    width:100px;
+    padding: 10px;
+    border: 20px solid purple;
+}
